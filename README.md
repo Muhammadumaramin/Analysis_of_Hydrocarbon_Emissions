@@ -31,5 +31,5 @@ This study aimed to develop a predictive regression model for estimating hydroca
 
 Additionally, residual analysis confirmed that model assumptions such as normality and homoscedasticity were reasonably satisfied after log-transforming the response variable. The reduced model not only simplified interpretation but also retained strong predictive power, highlighting petrol temperature and pressure as critical drivers of emissions. These findings provide practical insights for operational control and environmental risk mitigation in the petroleum industry, offering a data-driven basis for regulatory compliance and emissions reduction strategies.
 
-# Usethelog-transformed model if residual diagnostics (normality, homoscedasticity) are critical.
-# Usethe non-log-transformed model if higher R2 and interpretability of additive relationships are important.
+# Use the log-transformed model if residual diagnostics (normality, homoscedasticity) are critical.
+# Use the non-log-transformed model if higher R2 and interpretability of additive relationships are important.
